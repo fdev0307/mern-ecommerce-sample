@@ -1,0 +1,70 @@
+.col-4 {
+  width: 33.33333333%;
+}
+.productSlider .d-flex {
+  gap: 8px;
+}
+.productSlider .price-old {
+  color: #999;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: line-through;
+}
+.productSlider .price-new {
+  font-size: 16px;
+  font-weight: bolder;
+}
+.productSlider .card-title {
+  font-weight: 300;
+  text-align: left;
+}
+.productSlider .card-img-top {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  transition: 0.4s;
+  height: 371px;
+  width: fit-content;
+}
+.productSlider .card-img-top:hover {
+  box-shadow: 0 2px 10px 0 #dbd8d863;
+  filter: brightness(0.98);
+}
+.productSlider a {
+  font-size: 15px;
+  color: #404040;
+  text-decoration: none;
+}
+.productSlider .btnGroup {
+  opacity: 0;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  left: 25%;
+  bottom: 25%;
+}
+.productSlider .card:hover .btnGroup,
+.productSlider .card-img-top:hover .btnGroup{
+  opacity: 1;
+}
+.productSlider .carousel-control-next-icon,
+.productSlider .carousel-control-prev-icon{
+  background-color: black;
+}
+.productSlider .carousel-control-prev {
+  left: -4%;
+}
+.productSlider .carousel-control-next {
+  right: -4%;
+}
+.productSlider .carousel-control-next,
+.productSlider .carousel-control-prev{
+  width: auto;
+}
+.productSlider .carousel-indicators{
+  display: none;
+}
+.btn{
+  border: 0;
+  box-shadow: none !important;
+}

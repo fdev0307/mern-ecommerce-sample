@@ -1,0 +1,41 @@
+/*General Classes*/
+.boxShadaw{
+    box-shadow: 0 2px 10px 0 #d8dfd82b;
+}
+.border-50{
+    border-radius: 50%;
+}
+
+/*newsletter*/
+.sc-htpNat.hmNbnh, .sc-bxivhb.hwzetk{
+    display: none;
+  }
+.cOejr{
+    margin: 0  0 50px !important;
+    max-width: 70% !important;
+}
+.iOeItA, .cOejr{
+    padding: 0 !important;
+}
+.iOeItA, .cOejr, .dKHcJV {
+    background-color: transparent !important;
+}
+.dKHcJV{
+    border-width: 1px !important;
+    margin-right: 0 !important;
+}
+.hrfjOR{
+    background-color: white !important;
+    color: black !important;
+    border-radius: 0 !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+.row{
+    margin: 0 !important;
+}
+.productSlider .wishShow{
+    gap: 4% !important;
+}

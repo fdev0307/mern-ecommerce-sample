@@ -1,0 +1,15 @@
+.BrandslogoSec{
+    background: #f6f6f6;
+}
+.BrandslogoSec .react-multiple-carousel__arrow--left{
+    left: calc(1% + 1px);
+}
+.BrandslogoSec .react-multiple-carousel__arrow--right {
+    right: calc(0% + 1px);
+}
+.BrandslogoSec .react-multiple-carousel__arrow{
+    background: none !important;
+}
+.BrandslogoSec .react-multiple-carousel__arrow::before{
+    color: rgb(161, 157, 157);
+}

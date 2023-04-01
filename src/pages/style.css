@@ -1,0 +1,10 @@
+Table td img {
+    width: auto;
+    height: 6rem;
+}
+tbody, td, tfoot, th, thead, tr {
+    vertical-align: middle;
+}
+.cartSum h5 {
+    border-bottom: 1px solid #f4ecec;
+}

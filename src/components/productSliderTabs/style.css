@@ -1,0 +1,12 @@
+.productTabs .nav-tabs .nav-link{
+    color: rgb(143, 141, 141);
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.productTabs .nav-tabs .nav-item.show .nav-link,
+.productTabs .nav-tabs .nav-link.active{
+    color: black;
+}
+.productTabs .productSlider h5{
+    display: none;
+}
